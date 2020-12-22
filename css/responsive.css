@@ -1,0 +1,54 @@
+
+
+@media (max-width:1250px){
+    .wrap{
+        width: 90%;
+        margin: 0px auto;
+    }
+    #cards{
+        width: 90%;
+    }
+    .card{
+        width: 17%;
+        margin: 1.45%;
+    }
+    #articles{
+        width: 60%;
+    }
+    #articles article{
+        width: 95%;
+    }
+    #footer  .wrap > div{
+        width: 24%;
+    }
+
+    #footer h5{
+        font-size: 30px;
+    }
+
+    #banner h1{
+        font-size: 35px;
+        text-align: center;
+        margin: 33px auto;
+    }
+    
+    .card p{
+        width: 90%;
+        display: block;
+        margin: 0px auto;
+        text-align: center;
+    }
+}
+
+
+@media (max-width: 1080px){
+    .card .category{
+        font-size: 17px;
+    }
+    .card .description{
+        font-size: 14px;
+    }
+    #articles{
+        width: 61%;
+    }
+}
